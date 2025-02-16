@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿# Typing Speed Calculator
 
 This project is a simple command-line Typing Speed Calculator built using Python. The application measures typing speed (Words Per Minute - WPM) as users type a sample text. It uses the `curses` library for text-based UI.
@@ -65,6 +64,3 @@ This project is open-source and free to use for educational and personal purpose
 
 Feel free to contribute by submitting issues or pull requests!
 
-=======
-# Typing-Speed-Calculater
->>>>>>> 604f5b08637fec2aaedb16acea68814267e3894b
